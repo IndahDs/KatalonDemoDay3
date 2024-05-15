@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(1) Candidate to Interview</name>
+   <tag></tag>
+   <elementGuidId>0a84fa7b-f30d-447e-a89d-d937b08e5d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^\(1\) Candidate to Interview$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7d14ed8-ad8a-45df-b73b-f6cac82cb459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-todo-list-item</value>
+      <webElementGuid>e05d2301-bff8-4beb-87f8-bed577d0f7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(1) Candidate to Interview</value>
+      <webElementGuid>d942e964-a0b8-4507-9345-0abe0bbf1a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-body&quot;]/div[@class=&quot;orangehrm-todo-list&quot;]/div[@class=&quot;orangehrm-todo-list-item&quot;]</value>
+      <webElementGuid>8727d92b-67f7-4221-9036-90971ddb0e9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>589e1e1f-029b-4842-94de-c466111abbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>ccc49de6-2d67-4808-aaa8-582d862993b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '(1) Candidate to Interview' or . = '(1) Candidate to Interview')]</value>
+      <webElementGuid>c8e13971-90af-472c-9a23-fc2fdc8b36f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
